@@ -1,0 +1,8 @@
+# Local AI Motion Script Studio (Pure Script Synthesis Mode - Zero Render)
+gradio>=3.41.0
+openai>=1.12.0
+pillow>=10.2.0
+numpy>=1.26.0
+python-dotenv>=1.0.0
+pydantic>=2.6.0
+tqdm>=4.66.0
